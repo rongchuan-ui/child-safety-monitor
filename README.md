@@ -11,12 +11,6 @@ The recommended entry point is the combined web UI:
 python combined_monitor.py
 ```
 
-Open:
-
-```text
-http://127.0.0.1:5004
-```
-
 To use a phone as the camera, run:
 
 ```bash
