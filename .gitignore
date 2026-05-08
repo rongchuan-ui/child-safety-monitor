@@ -1,0 +1,19 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+.env
+.env.local
+.ipynb_checkpoints/
+.certs/
+*.log
+
+# Optional: ignore model weights if you are not using Git LFS.
+# If you use Git LFS, remove these two lines before committing the weights.
+# *.pt
+MD-CN/
