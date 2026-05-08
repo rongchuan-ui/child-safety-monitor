@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a local real-time AI monitoring demo for home safety. It reads a webcam feed, detects people, pets, and dangerous objects, then triggers alerts based on user-defined browser controls.
+This project is a local real-time AI monitoring demo for home safety. It reads a webcam feed, detects people and dangerous objects, then triggers alerts based on user-defined browser controls.
 
 The current recommended app is the combined monitor:
 
